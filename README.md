@@ -7,4 +7,5 @@ Please complete the following machine setup **in advance**:
 4. **Clone the starter kit**. Open the command line and run this in the directory where you plan to work: 
 ```git clone https://github.com/coryhouse/react-flux-starter-kit.git```  
 5. **Install the dependencies**. `cd react-flux-starter-kit` and then run this: `npm install`  
-6. **Run the starter kit**. Run this: `npm start` This will start the app in your browser. If this works, you're all set!
+6. **Run the starter kit**. Run this: `npm start` This will start the development webserver.  
+7. **Open [http://localhost:9005](http://localhost:9005).** If this works, you're all set!
