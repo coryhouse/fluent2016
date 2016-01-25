@@ -8,7 +8,7 @@ Please complete the following machine setup **in advance**:
 ```git clone https://github.com/coryhouse/react-flux-starter-kit.git```  
 5. **Install the dependencies**. `cd react-flux-starter-kit` and then run this: `npm install`  
 6. **Install Gulp globally**. `npm install -g gulp` - [Why globally?](http://stackoverflow.com/questions/22115400/why-do-we-need-to-install-gulp-globally-and-locally)  
-7. **Run the starter kit**. Run this: `gulp` This will start the development webserver.  
+7. **Run the starter kit**. Run this: `npm start`. This will start the development webserver.  
 8. **Open [http://localhost:9005](http://localhost:9005).** If you see the page below, you're all set!
  
 ![Starter Kit Hello World Screen](https://cloud.githubusercontent.com/assets/1688997/12373610/acdc7fe6-bc44-11e5-8e31-792a9b444b8c.png)
