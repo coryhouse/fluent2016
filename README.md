@@ -1,7 +1,7 @@
 # React and Flux from Scratch - Fluent 2016
 
 Please complete the following machine setup **in advance**:  
- 1. **Install the latest version of [Node](https://nodejs.org)**.  
+ 1. **Install the latest LTS version of [Node](https://nodejs.org)** - Currently, that's 4.2.6.  
  2. **Install [Git](https://git-scm.com/downloads)**.  
  3. **Download an editor that supports JSX and [install the appropriate plugin](https://github.com/facebook/react/wiki/Complementary-Tools#jsx-integrations)**. I recommend [SublimeText](http://www.sublimetext.com) or [Webstorm](https://www.jetbrains.com/webstorm/). Both offer free trials and run on Windows and Mac.  
  4. **Clone the starter kit**. Open the command line and run this in the directory where you plan to work: 
