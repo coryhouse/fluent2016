@@ -59,6 +59,10 @@ gulp.task('css', function() {
 	gulp.src(config.paths.css)
 		.pipe(concat('bundle.css'))
 		.pipe(gulp.dest(config.paths.dist + '/css'));
+
+	//copy sourcemap to /dist
+	gulp.src('node_modules/bootstrap/dist/css/bootstrap.min.css.map')
+		.pipe(gulp.dest(config.paths.dist + '/css'));
 });
 
 gulp.task('lint', function() {
