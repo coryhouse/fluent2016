@@ -9,3 +9,4 @@ Please complete the following machine setup **in advance**:
  5. **Install the dependencies**. `cd fluent2016` and then run this: `npm install`  
  6. **Run the starter kit**. Run this: `npm start`. This will start the development webserver.  
  7. **Open [http://localhost:9005](http://localhost:9005).** If you see the welcome page, you're all set!
+ 8. **Optional: Get the finished product** - Want to the final version of the demo app we're building? Then [clone this repo too](https://github.com/coryhouse/fluent2016complete).
